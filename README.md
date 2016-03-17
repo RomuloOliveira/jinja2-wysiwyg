@@ -14,4 +14,5 @@ A jinja2 WYSIWYG editor
 
 ## Running
 
+- Update database with `make migrate`
 - `make runserver`
